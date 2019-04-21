@@ -1,5 +1,5 @@
 layout: sidebar
-style: dark
+style: light
 
 plugins:
   - jekyll-octicons
@@ -34,14 +34,14 @@ projects:
   # hackerrank: your_username
   # instagram: your_username
   # keybase: your_username
-  # linkedin: your_username
+  linkedin: raynell-hagberg-b07855182/
   # medium: your_username
   # stackoverflow: your_user_id
   # telegram: your_username
   # twitter: your_username
   # unsplash: your_username
   # vk: your_username
-  # website: http://your_website_url
+  website: http://www.raynellhagberg.com
   # youtube: your_username
 
 topics:
@@ -51,6 +51,6 @@ topics:
 
   - name: Web design
 
-  - name: Sass
-    web_url: https://github.com/topics/sass
-    image_url: https://raw.githubusercontent.com/github/explore/6c6508f34230f0ac0d49e847a326429eefbfc030/topics/sass/sass.png
+  - name: Linux
+    web_url: https://www.linux.org/docs/
+    image_url: https://www.linux.org/images/linuxfav.png
